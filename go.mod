@@ -1,3 +1,3 @@
-module github.com/yourusername/batchx
+module github.com/Vectutil/batchx
 
 go 1.22.7
