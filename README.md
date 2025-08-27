@@ -15,7 +15,7 @@ batchx 是一个基于 Go 语言开发的高性能批量处理库。它能够将
 ## 安装
 
 ```bash
-go get github.com/yourusername/batchx
+go get github.com/Vectutil/batchx
 ```
 
 ## 快速开始
@@ -28,7 +28,7 @@ import (
     "fmt"
     "time"
     
-    "github.com/yourusername/batchx"
+    "github.com/Vectutil/batchx"
 )
 
 func main() {
